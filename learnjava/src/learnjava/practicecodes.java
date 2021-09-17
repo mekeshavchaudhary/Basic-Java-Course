@@ -46,12 +46,13 @@ public class practicecodes {
 //		int factorial=1;
 //		for (i=1 ; i<=n ; i++) {
 //			factorial=factorial*i;
-//			if (i <n){
-//				continue;
-//			}
-//					System.out.println(factorial);
+////			if (i <n){
+////				continue;
+////			}
+////			System.out.println(factorial);
 //			
 //		}
+//		System.out.println(factorial);
 		
 //Ques 5 sum of a multiplication table
 //		Scanner sc =new Scanner(System.in);
