@@ -1,7 +1,7 @@
 package learnjava;
 import java.util.Scanner;
 
-public class Elseifwithscanner {
+public class Elseifwithscanner_5 {
 	public static void main(String[] args) {
 		Scanner a = new Scanner(System.in);
 		System.out.print("Enter your age: ");

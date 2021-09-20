@@ -1,6 +1,6 @@
 package learnjava;
 
-public class Varargs {
+public class Varargs_15 {
 
 //method example one	
 //	static int sum(int ...arr) {

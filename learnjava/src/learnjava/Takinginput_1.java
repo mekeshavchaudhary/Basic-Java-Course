@@ -2,7 +2,7 @@ package learnjava;
 import java.util.Scanner;
 
 
-public class Takinginput1 {
+public class Takinginput_1 {
 	public static void main(String[] args) {
 		System.out.println("Enter the numbers you want");
 		Scanner sc = new Scanner(System.in);

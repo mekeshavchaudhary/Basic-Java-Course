@@ -1,6 +1,6 @@
 package learnjava;
 
-public class Breakandcontinue {
+public class Breakandcontinue_7 {
 	public static void main(String[] args) {
 		int i=0;
 // Break Statement

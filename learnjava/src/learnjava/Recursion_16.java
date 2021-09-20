@@ -1,6 +1,6 @@
 package learnjava;
 
-public class Recursion {
+public class Recursion_16 {
 	//normal method for factorial
 	static int factorial1(int n) {
 		if (n==0 || n==1) {

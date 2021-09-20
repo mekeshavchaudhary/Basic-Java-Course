@@ -1,7 +1,7 @@
 package learnjava;
 import java.util.Scanner;
 
-public class Percentageofstudent {
+public class Percentageofstudent_2 {
 	public static void main(String[] args) {
 		Scanner s = new Scanner(System.in);
 		System.out.println("Enter Student Name:");

@@ -2,7 +2,7 @@ package learnjava;
 import java.util.Scanner;
 
 
-public class Loops {
+public class Loops_6 {
 	public static void main(String[] args) {
 // 1 while loop
 		int i=0;

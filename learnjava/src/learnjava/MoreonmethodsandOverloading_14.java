@@ -1,6 +1,6 @@
 package learnjava;
 
-public class MoreonmethodsandOverloading {
+public class MoreonmethodsandOverloading_14 {
 	static void mysum(int a) {
 		a=98;
 	}

@@ -1,6 +1,6 @@
 package learnjava;
 
-public class Continuearray {
+public class Continuearray_10 {
 	public static void main(String[] args) {
 		//Array for different data type
 		

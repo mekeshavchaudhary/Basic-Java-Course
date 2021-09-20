@@ -1,6 +1,6 @@
 package learnjava;
 
-public class IntroToArrays {
+public class IntroToArrays_9 {
 	public static void main(String[] args) {
 		/* suppose a classroom of 50 students and we have to store marks for all students
 		 * so for that that we have two option

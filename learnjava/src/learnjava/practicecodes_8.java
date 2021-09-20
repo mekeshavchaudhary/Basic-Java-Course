@@ -2,7 +2,7 @@ package learnjava;
 
 import java.util.Scanner;
 
-public class practicecodes {
+public class practicecodes_8 {
 	public static void main(String[] args) {
 // Ques 1 sum of n even numbers
 //		int i;

@@ -1,6 +1,6 @@
 package learnjava;
 
-public class MultidimensionalArrays {
+public class MultidimensionalArrays_11 {
 	public static void main(String[] args) {
 		int [][] flats = new int[2][3];
 		

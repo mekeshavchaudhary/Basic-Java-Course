@@ -1,6 +1,6 @@
 package learnjava;
 
-public class IntrotoMethods {
+public class IntrotoMethods_13 {
 	
 	    //creating a method
 	static int logic(int x , int y) {

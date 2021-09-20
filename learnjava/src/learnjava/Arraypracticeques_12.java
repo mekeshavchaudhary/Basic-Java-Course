@@ -2,7 +2,7 @@ package learnjava;
 
 import java.util.Scanner;
 
-public class Arraypracticeques {
+public class Arraypracticeques_12 {
 	public static void main(String[] args) {
     	Scanner sc = new Scanner(System.in)		
 		//ques1 to get the sum of array

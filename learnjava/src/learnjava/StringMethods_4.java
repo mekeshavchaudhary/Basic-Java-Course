@@ -1,6 +1,6 @@
 package learnjava;
 
-public class StringMethods {
+public class StringMethods_4 {
 	public static void main(String[] args) {
 		
 		String name = "Keshav";
