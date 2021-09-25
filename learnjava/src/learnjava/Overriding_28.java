@@ -2,7 +2,6 @@ package learnjava;
 
 
 	class A{
-	    
 	    public int Keshav(){
 	        return 4;
 	    }
