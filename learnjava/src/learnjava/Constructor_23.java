@@ -4,14 +4,17 @@ class Students{
 	private int roll;
 	private String name;
 	
-	public Students(String myname,int myroll) {
-		name =myname;
-		roll = myroll;
-	}
 	public Students() {
 		roll=18;
 		name="Nitin";
 	}
+	
+	
+	public Students(String myname,int myroll) {
+		name =myname;
+		roll = myroll;
+	}
+	
 	
 	void setroll(int n) {
 		this.roll=n;
