@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Loops_6 {
 	public static void main(String[] args) {
 // 1 while loop
-		int i=0;
+//		int i=0;
 //		while(i<5) {
 //			System.out.println(i);
 //			i++;
@@ -17,8 +17,9 @@ public class Loops_6 {
 //					System.out.println(i);
 //					i++;
 //				}
-//	
+	
 // 2 do while loop
+//		int i=3;
 //		do {
 //			System.out.println(i);
 //			i++;
@@ -26,13 +27,13 @@ public class Loops_6 {
 		
 // 3 for loop
 		
-		for(i=0; i<=10 ; i++) {
-		System.out.println(i);
-		}
+//		for(i=0; i<=10 ; i++) {
+//		System.out.println(i);
+//		}
 		
-		for(i=5 ; i>0 ; i--){
-			System.out.println(i);
-		}
+//		for(i=5 ; i>0 ; i--){
+//			System.out.println(i);
+//		}
 	}
 
 }

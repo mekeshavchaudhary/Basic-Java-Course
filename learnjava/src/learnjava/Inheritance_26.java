@@ -13,7 +13,7 @@ class base{
 	}
 	
 }
-class derived extends base{
+class derived4 extends base{
 	int y;
 
 	public int getY() {
@@ -34,7 +34,7 @@ public class Inheritance_26 {
 		System.out.println(b.getX());
 		
 		
-		derived d= new derived();
+		derived4 d= new derived4();
 		d.setX(5);
 		System.out.println(d.getX());
 		
