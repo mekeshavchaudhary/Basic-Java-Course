@@ -46,11 +46,6 @@ public class practicecodes_8 {
 //		int factorial=1;
 //		for (i=1 ; i<=n ; i++) {
 //			factorial=factorial*i;
-////			if (i <n){
-////				continue;
-////			}
-////			System.out.println(factorial);
-//			
 //		}
 //		System.out.println(factorial);
 		

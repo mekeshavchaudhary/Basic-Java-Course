@@ -14,11 +14,12 @@ public class IntrotoMethods_13 {
 		return z;
 	}
 	public static void main(String[] args) {
-		int a=5 ;
-		int b=7 ;
-		int c;
-	    //calling a method
-		c = logic(a, b); 
+//		int a=5 ;
+//		int b=7 ;
+//		int c;
+//	    //calling a method
+//		c = logic(a, b); 
+		System.out.println(logic(3,4));
 		
 		/*
 		 * now if we remove static from the above method the calling it is not possible
@@ -28,7 +29,7 @@ public class IntrotoMethods_13 {
 		 * now we can call it like 
 		 * c= obj.logic(a,b);
 		 */
-		System.out.println(c);
+//		System.out.println(c);
 	}
 
 }

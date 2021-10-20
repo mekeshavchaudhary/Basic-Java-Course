@@ -10,13 +10,13 @@ public class Loops_6 {
 //			System.out.println(i);
 //			i++;
 //		}
-//		Scanner sc = new Scanner(System.in);
-//		System.out.println("Enter your number :");
-//		int i = sc.nextInt();
-//				while(i<=3) {
-//					System.out.println(i);
-//					i++;
-//				}
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter your number :");
+		int i = sc.nextInt();
+				while(i<=3) {
+					System.out.println(i);
+					i++;
+				}
 	
 // 2 do while loop
 //		int i=3;
