@@ -27,7 +27,7 @@ public class GetterandSetter_accessmodifier_prive_20 {
 		Myemployee person =new Myemployee();
 		
 //		person.id = 45;
-//		person.Name = "Keshva";     .....this will throw an error due to privete access modifier
+//		person.Name = "Keshva";     //.....this will throw an error due to privete access modifier
 		
 		
 		person.setName("Keshav");

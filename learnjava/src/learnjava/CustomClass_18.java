@@ -45,6 +45,8 @@ public class CustomClass_18 {
 		
 		String Name=person2.getName();
 		System.out.println(Name);
+		int one =person.getRoll();
+		System.out.println(one);
 	}
 
 }

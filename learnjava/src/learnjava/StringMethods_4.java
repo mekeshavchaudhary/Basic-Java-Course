@@ -19,7 +19,7 @@ public class StringMethods_4 {
 //4.        System.out.println(name.startsWith("K"));
 //		    System.out.println(name.endsWith("w"));
 //5.        System.out.println(name.charAt(2));
-//		    System.out.println(name.indexOf("s"));
+		    System.out.println(name.indexOf("s"));
 //		    System.out.println(name3.indexOf("v", 6));
 //		    System.out.println(name3.lastIndexOf("av"));      //here in "av"  it will only take a(first letter) as its input but if you right any different letter which is not in string then it will give you -1 ex(avz)
 //		    System.out.println(name.equals("Keshav"));

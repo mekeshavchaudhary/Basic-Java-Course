@@ -7,7 +7,6 @@ import java.util.Scanner;
 public class RockPaperScissor_randomcode_21 {
 	public static void main(String[] args) {
 		System.out.println("Enter 0 for Rock , 1 for Paper and 2 for Scissor: ");
-		
 		Scanner sc= new Scanner(System.in);
 		int myinput = sc.nextInt();
 		Random rn = new Random();
@@ -15,9 +14,7 @@ public class RockPaperScissor_randomcode_21 {
 		if (myinput>2) {
 			System.out.println("You have entered a Wrong Choice");
 		}
-		else {
-			
-			
+		else {			
 			if(myinput==yourinput) {
 				System.out.println("Its a Draw");
 			}

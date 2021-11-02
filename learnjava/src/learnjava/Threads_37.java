@@ -2,16 +2,11 @@ package learnjava;
 
 class Mythreads extends Thread{
 	int i=0;
-	public void run2() {
+	public void run() {
 		while(i<10) {
 			System.out.println("I am 1");
 			i++;
 		}
-	}
-	
-	
-	public void run() {
-		System.out.println("I am keshav");
 	}
 }
 class mythread2 extends Thread{

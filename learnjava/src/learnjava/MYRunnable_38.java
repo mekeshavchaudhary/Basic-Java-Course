@@ -1,18 +1,20 @@
 package learnjava;
 
 class Myrunnable implements Runnable{
+	@Override
 	public void run() {
 		int i=0;
-		while(i<1000) {
+		while(i<100) {
 		System.out.println("i am 1");
 		}
 	}
 }
 
 class Myrunnable2 implements Runnable{
+	@Override
 	public void run() {
 		int i=0;
-		while(i<1000) {
+		while(i<100) {
 		System.out.println("i am 2");
 		}
 	}
